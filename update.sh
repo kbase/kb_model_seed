@@ -1,5 +1,5 @@
 cd submodules/MFAToolkit
-git checkout master
+git checkout oldmfatoolkit
 git pull origin
 cd ../../
 git add submodules/MFAToolkit
